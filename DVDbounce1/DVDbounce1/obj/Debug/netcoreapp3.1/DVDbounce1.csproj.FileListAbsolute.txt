@@ -1,0 +1,13 @@
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\bin\Debug\netcoreapp3.1\DVDbounce1.exe
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\bin\Debug\netcoreapp3.1\DVDbounce1.deps.json
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\bin\Debug\netcoreapp3.1\DVDbounce1.runtimeconfig.json
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\bin\Debug\netcoreapp3.1\DVDbounce1.runtimeconfig.dev.json
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\bin\Debug\netcoreapp3.1\DVDbounce1.dll
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\bin\Debug\netcoreapp3.1\DVDbounce1.pdb
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.dll
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.pdb
+C:\Users\Tyler\source\repos\DVDbounce1\DVDbounce1\obj\Debug\netcoreapp3.1\DVDbounce1.genruntimeconfig.cache
